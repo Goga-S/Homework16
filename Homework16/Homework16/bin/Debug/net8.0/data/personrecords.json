@@ -1,0 +1,30 @@
+[
+  {
+    "CreateDate": "2024-11-11T15:03:18.257122+04:00",
+    "PersonId": "1234",
+    "FirstName": "Goga",
+    "LastName": "Samsonia",
+    "Jobposition": 0,
+    "Salary": 20000.0,
+    "WorkExperience": 3.0,
+    "PersonAdress": {
+      "Country": "Georgia",
+      "City": "Tbilisi",
+      "HomeNumber": "2277"
+    }
+  },
+  {
+    "CreateDate": "2024-11-11T23:21:48.1045041+04:00",
+    "PersonId": "111",
+    "FirstName": "Giga",
+    "LastName": "Gigiadze",
+    "Jobposition": 1,
+    "Salary": 2000.0,
+    "WorkExperience": 1.0,
+    "PersonAdress": {
+      "Country": "Georgia",
+      "City": "Ozurgeti",
+      "HomeNumber": "018"
+    }
+  }
+]
